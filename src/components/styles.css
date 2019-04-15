@@ -1,0 +1,20 @@
+.inputContainer {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 2rem;
+}
+
+.flex {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+.buttonsContainer {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	position: fixed;
+	bottom: 3rem;
+	width: 100%;
+}
